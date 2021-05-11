@@ -81,16 +81,16 @@ JavaScript has a concurrency model based on an event loop, which is responsible 
 
 The call stack is responsible for keeping track of all the operations in line to be executed. Whenever a function is finished, it is popped from the stack.
 
-![](images/call-stack.JPG)
+![](../images/call-stack.JPG)
 
 
 ### event queue
 
 The event queue is responsible for sending new functions to the track for processing. It follows the queue data structure to maintain the correct sequence in which all operations should be sent for execution.
 
-![](images/event-que.JPG)
+![](../images/event-que.JPG)
 
 
 Whenever an async function is called, it is sent to a browser API. These are APIs built into the browser. Based on the command received from the call stack, the API starts its own single-threaded operation.
 
-![](images/event-loop.JPG)
+![](../images/event-loop.JPG)
