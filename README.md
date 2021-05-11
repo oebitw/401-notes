@@ -11,8 +11,8 @@ Advanced Software Development.**
 
 Read Num | Read title | Read link
 ------------ | ------------- | --------------
-00 |  Get Ready for 401| [Click here](https://oebitw.github.io/401-notes/read00)
-01 |  Node Ecosystem, TDD, CI/CD | [Click here](https://oebitw.github.io/401-notes/read01)
+00 |  Get Ready for 401| [Click here](https://oebitw.github.io/401-notes/articles/read00)
+01 |  Node Ecosystem, TDD, CI/CD | [Click here](https://oebitw.github.io/401-notes/articles/read01)
 02 |   Classes, Inheritance | [Click here]()
 03 |   Data Modeling & NoSQL | [Click here]()
 04 |   Advanced Mongo/Mongoose | [Click here]()
