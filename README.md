@@ -15,8 +15,8 @@ Read Num | Read title | Read link
 01 |  Node Ecosystem, TDD, CI/CD | [Click here](https://oebitw.github.io/401-notes/articles/read01)
 02 |  Express | [Click here](https://oebitw.github.io/401-notes/articles/read02)
 03 |  Express REST API | [Click here](https://oebitw.github.io/401-notes/articles/read03)
-04 |  Express REST API | [Click here](https://oebitw.github.io/401-notes/articles/read04)
-05 |  Express REST API | [Click here](https://oebitw.github.io/401-notes/articles/read05)
+04 |  Data Modeling | [Click here](https://oebitw.github.io/401-notes/articles/read04)
+05 |  Linked List | [Click here](https://oebitw.github.io/401-notes/articles/read05)
 
 
 
