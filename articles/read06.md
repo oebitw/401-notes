@@ -78,7 +78,7 @@ it is an approach to unit testing that lets you make assertions about how the co
 
 ### Which 3 things had you heard about previously and now have better clarity on?
 
-* Model view control (MVC)
+* MVC
 
 * Binary search
 
