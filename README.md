@@ -18,6 +18,7 @@ Read Num | Read title | Read link
 04 |  Data Modeling | [Click here](https://oebitw.github.io/401-notes/articles/read04)
 05 |  Linked List | [Click here](https://oebitw.github.io/401-notes/articles/read05)
 06 |  Authentication | [Click here](https://oebitw.github.io/401-notes/articles/read06)
+07 |  Bearer Authorization | [Click here](https://oebitw.github.io/401-notes/articles/read07)
 
 
 
