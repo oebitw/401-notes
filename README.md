@@ -21,7 +21,7 @@ Read Num | Read title | Read link
 07 |  Bearer Authorization | [Click here](https://oebitw.github.io/401-notes/articles/read07)
 08 |  Access Control (ACL) | [Click here](https://oebitw.github.io/401-notes/articles/read08)
 09 |  stacks and queues | [Click here](https://oebitw.github.io/401-notes/articles/read09)
-10 |  O Auth | [Click here](https://oebitw.github.io/401-notes/articles/10)
+10 |  O Auth | [Click here](https://oebitw.github.io/401-notes/articles/read10)
 
 
 
