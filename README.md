@@ -24,6 +24,8 @@ Read Num | Read title | Read link
 10 |  O Auth | [Click here](https://oebitw.github.io/401-notes/articles/read10)
 11 |  Event Driven Applications| [Click here](https://oebitw.github.io/401-notes/articles/read11)
 12 |  Socket.io| [Click here](https://oebitw.github.io/401-notes/articles/read12)
+13 |  Message Queues| [Click here](https://oebitw.github.io/401-notes/articles/read13)
+
 
 
 
