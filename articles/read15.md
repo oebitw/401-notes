@@ -4,14 +4,14 @@
 
 ## Common Terminology
 
-- Node: component which may contain it’s own values, and references to other nodes
-- Root: node at the beginning of the tree
+- Node: component which may contain it’s own values, and references to other nodes.
+- Root: node at the beginning of the tree.
 - K: number that specifies the maximum number of children any node may have in a k-ary tree (in a binary tree, k = 2)
-- Left: reference to one child node, in a binary tree
-- Right: reference to the other child node, in a binary tree
-- Edge: link between a parent and child node
-- Leaf: node that does not have any children
-- Height: number of edges from the root to the furthest leaf
+- Left: reference to one child node, in a binary tree.
+- Right: reference to the other child node, in a binary tree.
+- Edge: link between a parent and child node.
+- Leaf: node that does not have any children.
+- Height: number of edges from the root to the furthest leaf.
 
 ## Traversals
 
