@@ -106,13 +106,13 @@ Dynamoose is a modeling tool for Amazon's DynamoDB. Dynamoose is heavily inspire
 
 ### Key Features
 
-- Type safety
-- High level API
-- Easy to use syntax
-- Ability to transform data before saving or retrieving documents
-- Strict data modeling (validation, required attributes, and more)
-- Support for DynamoDB Transactions
-- Powerful Conditional/Filtering Support
-- Callback & Promise support
+- Type safety.
+- High level API.
+- Easy to use syntax.
+- Ability to transform data before saving or retrieving documents.
+- Strict data modeling (validation, required attributes, and more).
+- Support for DynamoDB Transactions.
+- Powerful Conditional/Filtering Support.
+- Callback & Promise support.
 
 
