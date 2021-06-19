@@ -31,6 +31,7 @@ Read Num | Read title | Read link
 17 |  AWS: S3 and Lambda| [Click here](https://oebitw.github.io/401-notes/articles/read17)
 18 |  AWS: API, Dynamo and Lambda| [Click here](https://oebitw.github.io/401-notes/articles/read18)
 19 |  AWS: Events| [Click here](https://oebitw.github.io/401-notes/articles/read19)
+26 |  Component Based UI| [Click here](https://oebitw.github.io/401-notes/articles/read26)
 
 
 
