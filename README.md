@@ -33,6 +33,7 @@ Read Num | Read title | Read link
 19 |  AWS: Events| [Click here](https://oebitw.github.io/401-notes/articles/read19)
 26 |  Component Based UI| [Click here](https://oebitw.github.io/401-notes/articles/read26)
 27 | Props and State| [Click here](https://oebitw.github.io/401-notes/articles/read27)
+28 |Component Composition | [Click here](https://oebitw.github.io/401-notes/articles/read28)
 
 
 
