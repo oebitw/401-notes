@@ -39,9 +39,10 @@ Can pass all the props with the spread operator
 <Switch>
 
 
+---
 
+###  React If
 
-### React If
 
 An example of React if:
 
@@ -52,10 +53,12 @@ function SomeComponent({ condition }) {
     </div>
 }
 
+---
 
 ## ARIA HTML:
 
 ARIA defines semantics that can be applied to elements, with these divided into roles (defining a type of user interface element) and states and properties that are supported by a role. ... Addition of ARIA semantics only exposes extra information to a browser's accessibility API, and does not affect a page's DOM.
+---
 
 ## Queries:
 
@@ -63,7 +66,7 @@ Queries are the methods that Testing Library gives you to find elements on the p
 
 ## Types of Queries:
 
-- Single Elements
+1) Single Elements
         
 
     - getBy...: Returns the matching node for a query, and throw a descriptive error if no elements match or if more than one match is found (use getAllBy instead if more than one element is expected).
@@ -75,7 +78,7 @@ Queries are the methods that Testing Library gives you to find elements on the p
     - findBy...: Returns a Promise which resolves when an element is found which matches the given query. The promise is rejected if no element is found or if more than one element is found after a default timeout of 1000ms. If you need to find more than one element, use findAllBy.
 
 
-- Multiple Elements
+2) Multiple Elements
 
 
     - getAllBy...: Returns an array of all matching nodes for a query, and throws an error if no elements match.
