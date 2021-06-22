@@ -29,13 +29,13 @@ Can pass all the props with the spread operator
 
 ## Preparation Materials
 
-- React routing
+1) React routing
 
 
-- To build routing you need to install react-router, react-router-dom, and react-router-native.
-- Determine which type of router to use, ig. <BrowserRouter> and <HashRouter>.
-- Render router component in the App render function.
-- React Router Component: - <Route path=''/>
+2) To build routing you need to install react-router, react-router-dom, and react-router-native.
+3) Determine which type of router to use, ig. <BrowserRouter> and <HashRouter>.
+4) Render router component in the App render function.
+5) React Router Component: - <Route path=''/>
 <Switch>
 
 
@@ -46,12 +46,11 @@ Can pass all the props with the spread operator
 An example of React if:
 
 ```
-
-        function SomeComponent({condition}) {
-         return <div>
-        { condition ? <span>Yes it is true!</span> : null }
-        </div>
-        }
+function SomeComponent({ condition }) {
+    return <div>
+        {condition ? <span>Yes it is true!</span> : null}
+    </div>
+}
 ```
 
 ## ARIA HTML:
