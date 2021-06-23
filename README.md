@@ -35,6 +35,7 @@ Read Num | Read title | Read link
 27 | Props and State| [Click here](https://oebitw.github.io/401-notes/articles/read27)
 28 |Component Composition | [Click here](https://oebitw.github.io/401-notes/articles/read28)
 29 |Routing | [Click here](https://oebitw.github.io/401-notes/articles/read29)
+30| Hashtable | [Click here](https://oebitw.github.io/401-notes/articles/read30)
 
 
 
