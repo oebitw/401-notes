@@ -40,6 +40,7 @@ Read Num | Read title | Read link
 32| Custom Hooks| [Click here](https://oebitw.github.io/401-notes/articles/read32)
 33| Context API| [Click here](https://oebitw.github.io/401-notes/articles/read33)
 34| `<Login/>` and `<Auth/>` | [Click here](https://oebitw.github.io/401-notes/articles/read34)
+35| Graphs | [Click here](https://oebitw.github.io/401-notes/articles/read35)
 
 
 
