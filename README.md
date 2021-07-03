@@ -41,6 +41,7 @@ Read Num | Read title | Read link
 33| Context API| [Click here](https://oebitw.github.io/401-notes/articles/read33)
 34| `<Login/>` and `<Auth/>` | [Click here](https://oebitw.github.io/401-notes/articles/read34)
 35| Graphs | [Click here](https://oebitw.github.io/401-notes/articles/read35)
+36|  Application State with Redux | [Click here](https://oebitw.github.io/401-notes/articles/read36)
 
 
 
