@@ -43,6 +43,7 @@ Read Num | Read title | Read link
 35| Graphs | [Click here](https://oebitw.github.io/401-notes/articles/read35)
 36|  Application State with Redux | [Click here](https://oebitw.github.io/401-notes/articles/read36)
 37|  Redux - Combined Reducers | [Click here](https://oebitw.github.io/401-notes/articles/read37)
+38| Redux - Asynchronous Actions | [Click here](https://oebitw.github.io/401-notes/articles/read38)
 
 
 
